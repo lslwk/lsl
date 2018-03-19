@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM lslabc66/lsl:3.2.7
+FROM lslabc66/lsl:redis3.2.7
 
 # Install Redis.
 RUN \
